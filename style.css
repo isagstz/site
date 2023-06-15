@@ -7,8 +7,8 @@ body {
     font-family: 'Poppins', sans-serif; /* tipo de fonte (letra) */
 }
 .cabecalho {
-    background-color: #191436; /* cor de fundo do cabecalho */
-    color: rgb(184, 140, 209); /* cor da letra do cabecalho */
+    background-color: #000000; /* cor de fundo do cabecalho */
+    color: rgb(255, 255, 255); /* cor da letra do cabecalho */
     display: flex; /* criar elementos flexiveis que se adaptam aqualquer tipo de tela */
     justify-content: space-around;  /* justificar o conteúdo */
     align-items: center;  /* alinhar sempre o texto ao centro */
@@ -26,12 +26,12 @@ body {
 }
 
 .escola-imagem{
-    width: 25%; /* a imagem ocupa 25% da largura da tela */
+    width: 15%; /* a imagem ocupa 25% da largura da tela */
 }
 
 .escola{
-    background-image: linear-gradient(#504261,#a516f8); /* gera uma imagem com gradinte que começa na cor #424E61 e termina em #16CFF8 */
-    color:rgb(204, 176, 233);  /* cor da fonte (letra) */
+    background-image: linear-gradient(#000000,#5c0c0c); /* gera uma imagem com gradinte que começa na cor #424E61 e termina em #16CFF8 */
+    color:rgb(255, 255, 255);  /* cor da fonte (letra) */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -84,7 +84,7 @@ body {
 }
 
 .rodape{
-    background-color: rgb(19, 22, 59);
+    background-color: rgb(0, 0, 0);
     text-align: center;
 }
 
