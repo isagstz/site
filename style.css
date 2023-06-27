@@ -86,10 +86,11 @@ body {
 .rodape{
     background-color: rgb(0, 0, 0);
     text-align: center;
+
 }
 
-.rodape-imagem{
-    height: 60px;
-    padding: 12px 0;
-   
+.img-rodape{
+    margin: 4%;
+    padding: 0%;
+    width: 20%;
 }
